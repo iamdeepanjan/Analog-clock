@@ -10,7 +10,7 @@ A simple analog clock built using HTML, CSS, and JavaScript.
 
 ## How it works
 
-The clock uses the `setInterval` function to update the time every second. The [setTime](Clock/script.js:4:0-18:1) function is called every second to update the position of the hour, minute, and second hands.
+The clock uses the `setInterval` function to update the time every second. The [setTime](Analog-clock/script.js:4:0-18:1) function is called every second to update the position of the hour, minute, and second hands.
 
 ## Code Structure
 
